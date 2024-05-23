@@ -90,6 +90,21 @@ export const sidebarZh: SidebarConfig = {
         '/ModelTraining/AI-Matrix/08-ChipSideDeploymentModel.md',
       ],
     },
+    {
+      text: '模型训练配置与参数指南',
+      children: [
+        '/ModelTraining/AI-Matrix/09-IntroductionModelParameters-1.md',
+        '/ModelTraining/AI-Matrix/09-IntroductionModelParameters-2.md',
+        '/ModelTraining/AI-Matrix/09-IntroductionModelParameters-3.md',
+        '/ModelTraining/AI-Matrix/09-IntroductionModelParameters-4.md',
+      ],
+    },
+    {
+      text: '端侧部署资源包使用指南',
+      children: [
+        '/ModelTraining/AI-Matrix/10-IntroductionDeploymentResourcePackage.md',
+      ],
+    },
   ],
   '/System/': [
     {

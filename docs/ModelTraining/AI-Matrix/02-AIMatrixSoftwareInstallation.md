@@ -28,6 +28,20 @@
 
 **注意：驱动建议下载Studio版本。**
 
+
+
+开始前，请先下载两个文件**AI Matrix安装程序**与许可证文件，下载链接如下所示：
+
+1.AI Matrix安装包，可通过以下两种方法获取：：
+
+- 奶牛快传：[AI Matrix安装包](https://dongshanpi.cowtransfer.com/s/38b9bed360984b)
+
+- 百度网盘： [AI Matrix安装包](https://pan.baidu.com/s/1OHn6DtUXT_-ltrsJNGVv0w?pwd=neg9 )
+
+ 2.license许可证：[License](https://forums.100ask.net/t/topic/6688)
+
+
+
 下载AI Matrix Installer后，双击AI Matrix Installer.exe安装器，进入AI Matrix安装引导界面，在引导器界面中单击下一步进行安装。如图1-2所示。
 
 ![image-20240522180140374](http://photos.100ask.net/canaan-docs/image-20240522180140374.png)
