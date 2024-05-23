@@ -15,6 +15,10 @@ export const navbarZh: NavbarConfig = [
     link: '/Application/'
   },
   {
+    text: '视觉AI模型训练平台',
+    link: '/ModelTraining/'
+  },
+  {
     text: '系统开发',
     link: '/System/'
   },

@@ -44,6 +44,7 @@ export const sidebarZh: SidebarConfig = {
         '/Basic/DongshanPI-Vision/02-QuickStart.md',
         '/Basic/DongshanPI-Vision/03-BoardNetwork.md',
         '/Basic/DongshanPI-Vision/04-UpdateSystem.md',
+        '/Basic/DongshanPI-Vision/04_UpdateSystem-TF.md',
         '/Basic/DongshanPI-Vision/05-SSHTransferFiles.md',
         '/Basic/DongshanPI-Vision/06-App_Development_Guide.md',
       ],
@@ -74,6 +75,21 @@ export const sidebarZh: SidebarConfig = {
       ],
     },
 
+  ],
+  '/ModelTraining/': [
+    {
+      text: 'AI Matrix模型训练平台',
+      children: [
+        '/ModelTraining/AI-Matrix/01-AIMatrixOverview.md',
+        '/ModelTraining/AI-Matrix/02-AIMatrixSoftwareInstallation.md',
+        '/ModelTraining/AI-Matrix/03-TrainingProjectManagement.md',
+        '/ModelTraining/AI-Matrix/04-DataSetLabele.md',
+        '/ModelTraining/AI-Matrix/05-DataSetSplitting.md',
+        '/ModelTraining/AI-Matrix/06-ModelTraining.md',
+        '/ModelTraining/AI-Matrix/07-ModelEvaluationExport.md',
+        '/ModelTraining/AI-Matrix/08-ChipSideDeploymentModel.md',
+      ],
+    },
   ],
   '/System/': [
     {
@@ -107,7 +123,9 @@ export const sidebarZh: SidebarConfig = {
         '/System/DongshanPI-Vision/08-SDK_DSP_CORE_Guide.md',
       ],
     },
+
   ],
+
   '/Special/': [
     {
       text: '支持主线Linux',

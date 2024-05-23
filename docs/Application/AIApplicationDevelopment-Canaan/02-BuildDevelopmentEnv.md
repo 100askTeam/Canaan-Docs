@@ -46,7 +46,7 @@
 
 ![image-20230801105332891](http://photos.100ask.net/canaan-docs/image-20230801105332891.png)
 
-此时等待虚拟机运行即可，运行成功后进入登入界面。点击`Ubuntu`账户，输入密码为`Ubuntu`
+此时等待虚拟机运行即可，运行成功后进入登入界面。点击`ubuntu`账户，输入密码为`ubuntu`
 
 ![image-20230801105546859](http://photos.100ask.net/canaan-docs/image-20230801105546859.png)
 
