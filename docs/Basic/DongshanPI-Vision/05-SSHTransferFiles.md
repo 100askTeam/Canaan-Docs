@@ -57,6 +57,22 @@ PermitEmptyPasswords yes
 
 ![image-20230803092024236](http://photos.100ask.net/canaan-docs/image-20230803092024236.png)
 
+
+
+如果需要增加文件传输功能还需修改`SFTP`,将原来的
+
+```
+Subsystem      sftp    /usr/libexec/openssh/sftp-server
+```
+
+修改为：
+
+```
+Subsystem       sftp    internal-sftp
+```
+
+
+
 修改完成后，按下`esc`，输入`:wq`，保存并退出编辑器。
 
 ​	在串口终端输入`sync`,同步文件后重启开发板
