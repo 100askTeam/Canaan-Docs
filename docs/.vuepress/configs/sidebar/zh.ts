@@ -65,6 +65,12 @@ export const sidebarZh: SidebarConfig = {
       ],
     },
     {
+      text: '通信外设开发',
+      children: [
+        '/Application/CommunicationPeripherals/01-UARTUSerGuide.md',
+      ],
+    },
+    {
       text: '多媒体框架开发',
       children: [
         '/Application/MPPApplicationDevelopment-Canaan/01-Multimedia_Developer_Guides.md',
