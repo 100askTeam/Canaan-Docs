@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0f094cc5","path":"/ModelTraining/","title":"AI Matrix 通用视觉AI计算平台","lang":"中文简体","frontmatter":{},"headers":[],"git":{"updatedTime":1716432013000,"contributors":[{"name":"Rongkangqi","email":"2312689022@qq.com","commits":1}]},"filePathRelative":"ModelTraining/readme.md"}');export{e as data};

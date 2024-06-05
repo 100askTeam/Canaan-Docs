@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7e80ee0e","path":"/ModelTraining/AI-Matrix/01-AIMatrixOverview.html","title":"1.软件概述","lang":"中文简体","frontmatter":{},"headers":[],"git":{"updatedTime":1716432013000,"contributors":[{"name":"Rongkangqi","email":"2312689022@qq.com","commits":1}]},"filePathRelative":"ModelTraining/AI-Matrix/01-AIMatrixOverview.md"}');export{e as data};
