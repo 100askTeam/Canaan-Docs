@@ -42,7 +42,7 @@
 
 在创建新项目对话框中，AI Matrix支持三种不同的任务类型，分别是图像分类、目标检测和语义分割，如图2-6所示。
 
-![image-20240522174519122](http://photos.100ask.net/canaan-docs/image-20240522174519123.png)
+![image-20240522174519122](http://photos.100ask.net/canaan-docs/image-20240522174519122.png)
 
 图2-6 不同任务类型
 
